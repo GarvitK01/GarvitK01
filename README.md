@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **GarvitK01/GarvitK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hello there!
 I'm Garvit Kashyap, I am a third-year Computer Science student at BITS Pilani Hyderabad Campus. My interests lie in Deep Learning, Machine Learning, and their applications in different fields such as Computer Vision, Natural Language Processing. 
 
 Here are some ideas to get you started:
