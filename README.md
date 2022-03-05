@@ -31,7 +31,7 @@ I'm Garvit Kashyap, I am a third-year Computer Science student at BITS Pilani Hy
    &nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="pytorch" width="35px" height="35px" />
    &nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="tensorflow" width="35px" height="35px" />
+  <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="35px" height="35px" />
    &nbsp;
   <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas" width="35px" height="35px" />
    &nbsp;
