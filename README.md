@@ -55,8 +55,6 @@ I'm Garvit Kashyap, I am a third-year Computer Science student at BITS Pilani Hy
   &nbsp;
   <img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="NPM" width="35px" height="35px" />
   &nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/yarn.svg" alt="Yarn" width="35px" height="35px" />
-  &nbsp;
   <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="MongoDB" width="35px" height="35px" />
   
   
